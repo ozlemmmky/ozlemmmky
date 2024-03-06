@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi, I'm Özlem👋
+
+
+## About me
+
+Hello, I'm özlem. I graduated from İskenderun Technical University with a degree in Computer Engineering. I have experience in back-end development and I'm working to gain experience in other areas as well. I enjoy coding and currently work as a computer engineer in Mersin. I strive to continuously improve myself and stay updated with new technologies. 
+
+
+## contact me
+
+Gmail: ozlmmmky@gmail.com
 
 <!--
 **ozlemmmky/ozlemmmky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
